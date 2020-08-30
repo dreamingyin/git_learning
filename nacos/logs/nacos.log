@@ -1,0 +1,92 @@
+2020-08-30 14:35:06,359 INFO Starting Nacos v1.1.0 on yinhaoye with PID 13296 (F:\nacos\target\nacos-server.jar started by Steven in F:\nacos\bin)
+
+2020-08-30 14:35:06,364 INFO The following profiles are active: standalone
+
+2020-08-30 14:35:11,720 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$4602194c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-30 14:35:12,015 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-30 14:35:12,030 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@117159c0' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-30 14:35:12,037 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$6ad6bbfe] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-30 14:35:12,048 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-08-30 14:35:15,305 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-08-30 14:35:15,370 INFO Starting service [Tomcat]
+
+2020-08-30 14:35:15,371 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-08-30 14:35:15,398 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [D:\Java\jdk1.8.0_91\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\Software\MyOracle\oracle\bin;D:\Software\Xshell\;C:\Program Files (x86)\Lenovo\FusionEngine;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MySQL\MySQL Server 5.7\bin;D:\Software\apache-maven\bin;D:\Java\jdk1.8.0_91\bin;D:\Java\jdk1.8.0_91\jre\bin;C:\Users\29328\AppData\Local\Microsoft\WindowsApps;;.]
+
+2020-08-30 14:35:15,659 INFO Initializing Spring embedded WebApplicationContext
+
+2020-08-30 14:35:15,659 INFO Root WebApplicationContext: initialization completed in 9218 ms
+
+2020-08-30 14:35:37,486 INFO Use Mysql as the driver
+
+2020-08-30 14:35:38,851 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-08-30 14:35:39,856 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-08-30 14:35:40,820 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-08-30 14:35:40,821 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-08-30 14:35:40,823 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-08-30 14:35:40,827 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-08-30 14:35:40,828 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-08-30 14:35:40,830 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-08-30 14:35:40,830 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-08-30 14:35:40,831 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-08-30 14:35:40,834 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-08-30 14:35:40,837 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-08-30 14:35:40,840 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-08-30 14:35:40,841 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-08-30 14:35:40,844 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-08-30 14:35:40,845 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-08-30 14:35:40,846 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-08-30 14:35:40,849 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-08-30 14:35:40,926 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@16f7b4af, org.springframework.security.web.context.SecurityContextPersistenceFilter@50eca7c6, org.springframework.security.web.header.HeaderWriterFilter@1c55f277, org.springframework.security.web.authentication.logout.LogoutFilter@38f57b3d, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@7adf16aa, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1de5f0ef, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6ca0256d, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@34a1d21f, org.springframework.security.web.session.SessionManagementFilter@3e8f7922, org.springframework.security.web.access.ExceptionTranslationFilter@2b491fee, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2cac4385]
+
+2020-08-30 14:35:41,006 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-08-30 14:35:41,093 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-08-30 14:35:41,377 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-08-30 14:35:41,384 INFO Started Nacos in 39.286 seconds (JVM running for 40.772)
+
+2020-08-30 14:35:41,385 INFO Nacos Log files: F:\nacos/logs/
+
+2020-08-30 14:35:41,388 INFO Nacos Conf files: F:\nacos/conf/
+
+2020-08-30 14:35:41,389 INFO Nacos Data files: F:\nacos/data/
+
+2020-08-30 14:35:41,390 INFO Nacos started successfully in stand alone mode.
+
+2020-08-30 14:35:42,019 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-08-30 14:35:42,021 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-08-30 14:35:42,041 INFO Completed initialization in 20 ms
+
+2020-08-30 14:35:55,123 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
+2020-08-30 14:36:39,552 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+

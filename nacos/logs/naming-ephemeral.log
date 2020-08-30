@@ -1,0 +1,104 @@
+2020-08-30 14:35:16,326 INFO distro notifier started
+
+2020-08-30 14:35:21,251 DEBUG server list is: []
+
+2020-08-30 14:35:26,253 DEBUG server list is: []
+
+2020-08-30 14:35:31,254 DEBUG server list is: []
+
+2020-08-30 14:35:36,283 DEBUG server list is: []
+
+2020-08-30 14:35:41,307 DEBUG server list is: []
+
+2020-08-30 14:35:46,345 DEBUG server list is: []
+
+2020-08-30 14:35:51,347 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:35:56,349 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:01,351 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:06,352 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:11,354 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:16,354 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:21,356 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:26,358 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:31,360 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:36,361 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:41,362 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:46,364 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:51,366 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:36:56,368 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:01,370 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:06,372 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:11,373 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:16,373 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:21,374 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:26,376 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:31,377 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:36,379 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:41,380 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:46,381 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:51,382 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:37:56,384 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:01,385 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:06,386 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:11,387 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:16,388 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:21,390 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:26,392 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:31,394 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:36,394 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:41,395 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:46,396 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:51,397 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:38:56,399 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:39:01,400 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:39:06,402 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:39:11,404 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:39:16,405 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:39:21,406 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:39:26,408 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
+2020-08-30 14:39:31,409 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.43.109","key":"192.168.43.109:8848","lastRefTime":1598769350744,"lastRefTimeStr":"2020-08-30 14:35:50","servePort":8848,"site":"unknown","weight":2}]
+
